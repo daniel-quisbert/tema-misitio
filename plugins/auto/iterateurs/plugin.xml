@@ -1,0 +1,21 @@
+<plugin>
+	<nom>
+	It&#233;rateurs
+	</nom>
+	<auteur>Fil &amp; Marcimat</auteur>
+	<licence>&#169; 2010-2011 - GNU/GPL</licence>
+	<version>0.4.0</version>
+	<etat>dev</etat>
+	<description>
+	backport pour SPIP 2.1 des it&#233;rateurs de la branche dev
+	</description>
+	<prefix>Iterateurs</prefix>
+
+	<icon>iterateurs.png</icon>
+
+	<fonctions>iterateurs_fonctions.php</fonctions>
+	<lien>http://www.spip-contrib.net/3667</lien>
+
+	<categorie>outil</categorie>
+	<necessite id="SPIP" version="[2.1.0;]" />
+</plugin>
